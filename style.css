@@ -1,0 +1,176 @@
+ body
+ {
+     background-color: #303030;
+     color: #ffffff;
+     font-family: 'Supermercado One', cursive;
+     font-size: 20px ;
+ }
+ #container 
+ {
+     width: 1000px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .rectangle
+ {
+     width: 960px; 
+     margin: 20px;
+}
+.square 
+{
+    width: 50%;
+float: left;
+}
+#logo{
+    float: left;
+    font-family: 'Supermercado One', cursive;
+    font-size: 70px;
+    width: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   text-align: left;
+}
+
+.tile1
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #3095d3;
+    float: left;
+    text-align: center;
+}
+.tile1:hover
+{
+background-color: #1073b1;
+}
+.tile2
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #666666;
+    float: left;
+    text-align: center;
+} 
+.tile2:hover
+{
+background-color: #444444;
+}
+.tile3
+{
+    margin: 10px;
+    width: 230px;
+    height: 142px;
+    background-color: #93c748;
+    float: left;
+    text-align: center;
+}
+.tile3:hover
+{
+background-color: #71a526;
+}
+.tile4
+{
+    margin: 10px;
+    width: 420px;
+    height: 82px;
+    background-color: #ee5a32;
+    text-align: center;
+    font-size: 26px;
+    padding:30px;
+    line-height: 150%;
+}
+.tile4:hover
+{
+background-color: #dd4a32;
+}
+.tile5
+{
+    margin: 10px;
+    width: 420px;
+    height: 244px;
+    background-color: #666666;
+    text-align: justify;
+    padding: 30px;
+	
+
+}
+.tile5:hover
+{
+background-color: #444444;
+}
+.yt
+{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #da0c13;
+    float: left;
+}
+.yt:hover
+{
+background-color: #ba0a01;
+}
+
+.twtv
+{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #9146ff;
+    float: left;
+}
+    .twtv:hover
+{
+background-color: #7024dd;
+}
+
+
+.tw
+{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #3095d3;
+    float: left;
+}
+.tw:hover
+{
+background-color: #1073b1;
+}
+
+.github
+{
+    margin: 10px;
+    width: 105px;
+    height: 142px;
+    background-color: #1b1517;
+    float: left;
+}
+.github:hover
+{
+background-color: #000000;
+}
+a.tilelink
+{
+    color: #ffffff;
+text-decoration: none;
+display: block;
+}
+img{
+
+    width: 420px;
+    height: 250px;
+}
+.sociallink
+{
+    color: #ffffff;
+text-decoration: none;
+display: block;
+}
+.tilelink5
+{
+    color: #ffffff;
+    text-decoration: none;
+}
